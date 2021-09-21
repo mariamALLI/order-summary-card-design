@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://github.com/mariamALLI/order-summary-card/blob/3c1c3491f5313c229699fe3a6ce4d25dd79c1349/index.html) (https://github.com/mariamALLI/order-summary-design/blob/5050d5b6f05408e112c68c57205fabeda1b6b56e/style.css)
+- Solution URL:(https://github.com/mariamALLI/order-summary-card-design.git)
 - Live Site URL:(https://nerdyassist.netlify.app/)
 
 
